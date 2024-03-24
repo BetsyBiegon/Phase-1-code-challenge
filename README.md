@@ -1,4 +1,3 @@
-# Phase-1-code-challenge
 Student Grade Generator ,Speed Detector,Net Salary Calculator
 Challenge 1: Student Grade Generator
 
